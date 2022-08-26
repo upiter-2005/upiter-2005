@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @upiter-2005
+- 👋 Hi, I’m Pavel Kuchenev
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning React, Node JS, MongoDB, Express
 - 💞️ I’m looking to collaborate on ...
